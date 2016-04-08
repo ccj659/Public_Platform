@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_lancher1.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\mipmap-mdpi\\ic_lancher1.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_back.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\mipmap-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\tab_home_selected.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\mipmap-mdpi\\tab_home_selected.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\tab_home_normal.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\mipmap-mdpi\\tab_home_normal.png"
+    }
+]

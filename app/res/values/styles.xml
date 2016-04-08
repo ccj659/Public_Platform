@@ -1,0 +1,91 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!--<style name="AppTheme" parent="ThemeToolbar">-->
+        <item name="colorPrimary">@color/blue</item>
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/blue</item>
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
+        <item name="android:textColor">@color/black</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="android:textCursorDrawable">@null</item>
+
+    </style>
+
+    <style name="Theme.AppCompat.Light.NoActionBar" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="splashTheme" parent="AppTheme">
+        <item name="android:activityCloseExitAnimation" >@anim/popwindow_out</item>
+        <item name="android:activityOpenEnterAnimation" >@anim/popwindow_out</item>
+
+
+    </style>
+
+    <!--Set actionbar icon color-->
+    <style name="ThemeToolbar" parent="Theme.AppCompat.Light">
+        <!-- navigation icon color -->
+        <item name="colorControlNormal">@color/blue</item>
+        <!-- color of the menu overflow icon -->
+        <item name="android:textColorSecondary">@color/blue</item>
+    </style>
+
+    <style name="AnimTools" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/popwindow_in</item>
+        <item name="android:windowExitAnimation">@anim/popwindow_out</item>
+    </style>
+
+    <style name="sppinner" parent="AppTheme">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <!--去掉背景Dialog-->
+    <style name="NobackDialog" parent="@android:style/Theme.Holo.Dialog.NoActionBar">
+        <item name="android:windowBackground">@color/window_bg</item>
+        <item name="android:background">@color/window_bg</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:actionButtonStyle">@drawable/selector_btn_blue</item>
+    </style>
+
+    <style name="default_dialog_style" >
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:radius">5dp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="selected_dialog_style" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:radius">5dp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="LoadingDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+</resources>

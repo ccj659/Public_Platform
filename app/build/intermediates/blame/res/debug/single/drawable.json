@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gsmc.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\gsmc.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_btn_style.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\dialog_btn_style.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zzjg.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\zzjg.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bg.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\top_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\richpush_btn_selector.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bottom_right_btn.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\dialog_bottom_right_btn.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_holodark.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\common_button_holodark.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_border_shape.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\common_border_shape.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_new_msg_count.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\bg_new_msg_count.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_color.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\common_tab_color.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_border_small.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\common_border_small.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\pop.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_richpush_actionbar_back.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_11.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_11.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_blue.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\selector_btn_blue.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\top.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_red.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\selector_btn_red.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_bg.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\border_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_14.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_14.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_top_btn_bg.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\dialog_top_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_blue.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\bg_blue.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bottom_left_btn.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\dialog_bottom_left_btn.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_4.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_4.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enter.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\enter.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_richpush_actionbar_divider.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_bg_white.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\common_bg_white.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_login.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\pic_login.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_default_style.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\dialog_default_style.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_1.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_1.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stripes.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\stripes.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_contacts.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\ic_contacts.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_massage_item.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\selector_massage_item.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_bg.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\bottom_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bumen.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\bumen.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_12.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_12.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_7.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_7.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_2.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_2.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_round_bg_red.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\common_round_bg_red.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_dark.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\common_button_dark.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_round_bg_gray.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\common_round_bg_gray.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_border.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\selector_tab_border.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\base_tabpager_indicator_selected.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\base_tabpager_indicator_selected.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jpush_notification_icon.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\jpush_notification_icon.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drop_down_menu_bg.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\drop_down_menu_bg.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_6.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_6.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bottom_btn_bg.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\dialog_bottom_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_3.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_3.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_text.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\selector_tab_text.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_register.9.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\pic_register.9.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiledstripes.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\tiledstripes.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_keypad.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\ic_keypad.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_area_circle.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\bg_area_circle.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_photo.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\no_photo.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_13.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_13.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hover.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\hover.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_5.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_5.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_recent.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\ic_recent.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_8.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_8.png"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\GitSpace\\PublicPlatform\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_10.png",
+        "source": "E:\\GitSpace\\PublicPlatform\\app\\res\\drawable\\loading_10.png"
+    }
+]
